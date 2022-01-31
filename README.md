@@ -1,9 +1,6 @@
-# Federico Lombardini
-_Nato l'08/08/1990 e residente a Bucine (AR)._
+**_Developer con quattro anni di esperienza nel settore, specializzato nello sviluppo di applicazioni web in PHP con il framework Symfony e mobile con React Native._**
 
-_Developer con quattro anni di esperienza nel settore, specializzato nello sviluppo di applicazioni web in PHP con il framework Symfony e mobile con React Native._
-
-_Organizzato, entusiasta e sempre volenteroso di accrescere le proprie competenze, capace di sviluppare codice eccellente, stabile e ben organizzato utilizzando strumenti di controllo versione._
+**_Organizzato, entusiasta e sempre volenteroso di accrescere le proprie competenze, capace di sviluppare codice eccellente, stabile e ben organizzato utilizzando strumenti di controllo versione._**
 
 #### [Email](mailto:lomba90@libero.it) / [LinkedIn](https://www.linkedin.com/in/federico-lombardini/) / [GitHub](https://github.com/nobady90) / [Twitter](https://twitter.com/NobadyProducer)
 
