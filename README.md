@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Federico Lombardini
+_Nato l'08/08/1990 e residente a Bucine (AR)._
 
-You can use the [editor on GitHub](https://github.com/nobady90/cv-ita/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Developer con quattro anni di esperienza nel settore, specializzato nello sviluppo di applicazioni web in PHP con il framework Symfony e mobile con React Native._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Organizzato, entusiasta e sempre volenteroso di accrescere le proprie competenze, capace di sviluppare codice eccellente, stabile e ben organizzato utilizzando strumenti di controllo versione._
 
-### Markdown
+#### [Email](mailto:lomba90@libero.it) / [LinkedIn](https://www.linkedin.com/in/federico-lombardini/) / [GitHub](https://github.com/nobady90) / [Twitter](https://twitter.com/NobadyProducer)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 👨‍💻 Esperienze Professionali
 
-```markdown
-Syntax highlighted code block
+**Developer** @ [Open-Box](https://www.open-box.it/) - Terranuova Bracciolini (AR) - _(Febbraio 2018 - Attuale)_ <br>
+  - Ambiente Linux, sia Front-End che Back-End per sviluppo gestionali privati.
+  - **_Tecnologie utilizzate:_** Php, Symfony, React Native (iOS & Android), TypeScript, Html, Twig, Css, Angular, REST/RESTful API, Git, Docker, Yarn, Composer, Node.js, Ruby, JavaScript, MySQL, GSuite, Wordpress, JetBrains Suite (PhpStorm, WebStorm e DataGrip).
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Consulente Informatico** @ [Zucchetti Centro Sistemi](http://www.zcscompany.com/it/) - Terranuova Bracciolini (AR) - _(Ottobre 2012 - Gennaio 2018)_ <br>
+  - HealtCare Division, Assistente Tecnico Informatico, Trasfertista, HelpDesk Remoto.
+<br><br>
 
-- Bulleted
-- List
+**Supervisore di Magazzino** @ Consorzio TerraNuova - Terranuova Bracciolini (AR) - _(Agosto 2010 - Settembre 2012)_ <br>
+  - Magazziniere ed addetto al Rifornimento, Gestione magazzino, Ingressi Materiali, Gestione database Oracle.
+<br><br>
 
-1. Numbered
-2. List
+**Addetto al Montaggio** @ Power-One - Terranuova Bracciolini (AR) - _(Gennaio 2010 - Luglio 2010)_ <br>
+  - Operatore di Linea, Aiuto Capo Linea e Rifornitore di Linea.
+<br><br>
 
-**Bold** and _Italic_ and `Code` text
+## 📌 Progetti Extra
 
-[Link](url) and ![Image](src)
-```
+**[cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)** - _(Novembre 2020)_ <br>
+  - Accettato PR contenente la traduzione in italiano delle lezioni che erano presenti in quel periodo.
+<br><br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**[gitpay](https://github.com/worknenjoy/gitpay)** - _(Febbraio 2020)_ <br>
+  - Inserito nell'organizzazione [Work and Enjoy](https://github.com/worknenjoy) e risolti alcuni bug sulla loro piattaforma **gitpay**.
+<br><br>
 
-### Jekyll Themes
+## 💬 Lingue
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nobady90/cv-ita/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Italiano**: Madrelingua <br>
+**Inglese (Comprensione)**: Livello Avanzato
+**Inglese (Parlato)**: Livello Intermedio
+<br><br>
 
-### Support or Contact
+## 👨🏻‍🎓 Istruzione e Formazione
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Perito industriale / Informatico Capotecnico** @ [Istituto Tecnico Tecnologico (ITT) “Galileo Ferraris”](https://www.isisvaldarno.edu.it/struttura/isis-valdarno/) - San Giovanni Valdarno (AR) - _(2009)_ <br>
+  - Informatica, Sistemi, Elettronica, Ottimo utilizzo del pacchetto Office ed OpenOffice, sviluppo in C, C++, HTML, PHP e MySql.
+<br><br>
