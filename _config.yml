@@ -1,5 +1,5 @@
-remote_theme: yaoyao-liu/minimal-light
-#theme: jekyll-theme-minimal
+#remote_theme: yaoyao-liu/minimal-light
+theme: jekyll-theme-minimal
 #title: 💻✒️📄🌟
-avatar: ./assets/ProfiloRounded.png
+logo: ./assets/ProfiloRounded.png
 description: 08/08/1990 - Bucine (AR)
