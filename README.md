@@ -26,7 +26,7 @@
 ## 📌 Progetti Extra
 
 **[cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)** - _(Novembre 2020)_ <br>
-  - Accettato PR contenente la traduzione in italiano delle lezioni che erano presenti in quel periodo.
+  - Effettuata traduzione in italiano delle lezioni che erano presenti in quel periodo.
 <br><br>
 
 **[gitpay](https://github.com/worknenjoy/gitpay)** - _(Febbraio 2020)_ <br>
