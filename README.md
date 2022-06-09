@@ -8,7 +8,7 @@
 
 **Developer** @ [Open-Box](https://www.open-box.it/) - Terranuova Bracciolini (AR) - _(Febbraio 2018 - Attuale)_ <br>
   - Ambiente Linux, sia Front-End che Back-End per sviluppo gestionali privati.
-  - **_Tecnologie utilizzate:_** Php, Symfony, React Native (iOS & Android), TypeScript, Html, Twig, Css, Angular, REST/RESTful API, Git, Docker, Yarn, Composer, Node.js, Ruby, JavaScript, MySQL, GSuite, Wordpress, JetBrains Suite (PhpStorm, WebStorm e DataGrip).
+  - **_Tecnologie utilizzate:_** Php, Symfony, React Native (iOS & Android), TypeScript, Html, Twig, Css, Angular, JavaScript, REST/RESTful API, Git, Docker, Yarn, Npm, Composer, Node.js, Apache, Nginx, MySQL, GSuite, Wordpress, JetBrains Suite (PhpStorm, WebStorm e DataGrip).
 <br><br>
 
 **Consulente Informatico** @ [Zucchetti Centro Sistemi](http://www.zcscompany.com/it/) - Terranuova Bracciolini (AR) - _(Ottobre 2012 - Gennaio 2018)_ <br>
