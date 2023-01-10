@@ -45,3 +45,5 @@
 **Perito industriale / Informatico Capotecnico** @ [Istituto Tecnico Tecnologico (ITT) “Galileo Ferraris”](https://www.isisvaldarno.edu.it/struttura/isis-valdarno/) - San Giovanni Valdarno (AR) - _(2009)_ <br>
   - Informatica, Sistemi, Elettronica, Ottimo utilizzo del pacchetto Office ed OpenOffice, sviluppo in C, C++, HTML, PHP e MySql.
 <br><br>
+
+<i>Autorizzo il trattamento dei miei dati personali presenti nel cv ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 “Codice in materia di protezione dei dati personali” e dell’art. 13 del GDPR (Regolamento UE 2016/679).</i>
