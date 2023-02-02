@@ -1,4 +1,4 @@
-**_Developer con quattro anni di esperienza nel settore, specializzato nello sviluppo di applicazioni web in PHP con il framework Symfony e mobile con React Native._**
+**_Developer con cinque anni di esperienza nel settore, specializzato nello sviluppo di applicazioni web in PHP con il framework Symfony e mobile con React Native._**
 
 **_Organizzato, entusiasta e sempre volenteroso di accrescere le proprie competenze, capace di sviluppare codice eccellente, stabile e ben organizzato utilizzando strumenti di controllo versione._**
 
@@ -7,7 +7,7 @@
 ## 👨‍💻 Esperienze Professionali
 
 **Developer** @ [Open-Box](https://www.open-box.it/) - Terranuova Bracciolini (AR) - _(Febbraio 2018 - Attuale)_ <br>
-  - Ambiente Linux, sia Front-End che Back-End per sviluppo gestionali privati.
+  - Ambiente Linux, sia Back-End che Front-End per sviluppo di gestionali ad uso privato e pubblico.
   - **_Tecnologie utilizzate:_** Php, Symfony, React Native (iOS & Android), TypeScript, Html, Twig, Css, Angular, JavaScript, REST/RESTful API, Git, Docker, Yarn, Npm, Composer, Node.js, Apache, Nginx, MySQL, GSuite, Wordpress, JetBrains Suite (PhpStorm, WebStorm e DataGrip).
 <br><br>
 
