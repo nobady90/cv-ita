@@ -25,6 +25,10 @@
 
 ## 📌 Progetti Extra
 
+**[Koinos Raffles](https://koinosraffles.io/)** - _(Agosto 2023 - Attuale)_ <br>
+  - Ideato e creato il progetto "Koinos Raffles" su blockchain [Koinos](https://koinos.io/).
+<br><br>
+
 **[cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)** - _(Novembre 2020)_ <br>
   - Effettuata traduzione in italiano delle lezioni che erano presenti in quel periodo.
 <br><br>
