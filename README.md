@@ -2,7 +2,7 @@
 
 **_Organizzato, entusiasta e sempre volenteroso di accrescere le proprie competenze, capace di sviluppare codice eccellente, stabile e ben organizzato utilizzando strumenti di controllo versione._**
 
-#### [Email](mailto:lomba90@libero.it) / [LinkedIn](https://www.linkedin.com/in/federico-lombardini/) / [GitHub](https://github.com/nobady90) / [Twitter](https://twitter.com/NobadyProducer)
+#### [✉️ Email](mailto:lomba90@libero.it) / [🔗 LinkedIn](https://www.linkedin.com/in/federico-lombardini/) / [🔗 GitHub](https://github.com/nobady90) / [🔗 Twitter](https://twitter.com/NobadyProducer)
 
 ## 👨‍💻 Esperienze Professionali
 
