@@ -5,7 +5,7 @@
 # 🇮🇹 Italiano
 <a name="curriculum-in-italiano"></a>
 
-**_Developer con sei anni di esperienza nel settore, specializzato nello sviluppo back-end di applicazioni web con vari linguaggi di sviluppo e nella creazione di back-end REST/RESTful API._**
+**_Developer con sette anni di esperienza nel settore, specializzato nello sviluppo back-end di applicazioni web con vari linguaggi di sviluppo e nella creazione di back-end REST/RESTful API._**
 
 **_Organizzato, entusiasta e sempre volenteroso di accrescere le proprie competenze, capace di sviluppare codice eccellente, stabile e ben organizzato utilizzando strumenti di controllo versione._**
 
@@ -15,7 +15,7 @@
 
 **Developer** @ [Zucchetti Centro Sistemi](http://www.zcscompany.com/it/) - Terranuova Bracciolini (AR) - _(Novembre 2023 - Attuale)_ <br>
   - Focalizzato sullo sviluppo di back-end REST/RESTful API ed applicazioni native iOS & Android.
-  - **_Linguaggi e tecnologie utilizzate:_** Python, Java, Kotlin, Swift, Google Cloud, Firebase.
+  - **_Linguaggi e tecnologie utilizzate:_** Python, Java, Kotlin, Swift, FastAPI, Firebase, Google Cloud Platform, Kubernetes, Docker, Database SQL e NoSQL.
 <br><br>
 
 **Developer** @ [Open-Box](https://www.open-box.it/) - Terranuova Bracciolini (AR) - _(Febbraio 2018 - Ottobre 2023)_ <br>
